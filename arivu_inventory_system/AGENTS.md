@@ -150,3 +150,10 @@ All changes must pass the following validation steps. An AI agent should propose
     * Suggest potential causes or debugging steps.
 * **Task Splitting:** For highly complex requests, propose breaking them down into smaller, focused sub-tasks, estimating the effort for each.
 * **Adaptation & Learning:** Continuously learn from feedback and previous iterations. Self-correct and adapt to evolving project requirements and conventions.
+## 7. Agent Iteration & Self-Review
+
+* **Analyze Before Acting:** Thoroughly read related code and documentation before modifying files.
+* **Iterative Workflow:** Make small, focused commits and run validation checks after each change.
+* **Self Review:** Re-read modified sections to ensure compliance with this guide and fix simple mistakes.
+* **Learning Record:** Note important decisions or lessons in PR summaries to assist future contributors.
+
