@@ -1,0 +1,5 @@
+arivu_inventory_system/arivu-venv/
+arivu_inventory_system/arivu.db
+__pycache__/
+*.pyc
+arivu_inventory_system/supply_chain_system/arivu.db
